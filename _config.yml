@@ -1,0 +1,13 @@
+title: 'Claude账号购买 2026：成品号靠谱吗、风险在哪、为什么自己号开会员更稳'
+description: 'Claude账号购买前必看：成品号被找回、被封后聊天记录和钱怎么办，为什么自己号开会员更稳；国内可在瑶瑶ai训练师商城 ¥159 开 Pro 到自己账号（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/claudehao"
